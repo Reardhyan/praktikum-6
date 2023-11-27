@@ -127,7 +127,9 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 • Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 
-• Buat flowchart dan penjelasan programnya pada README.md. • Commit dan push repository ke github.
+• Buat flowchart dan penjelasan programnya pada README.md. 
+
+• Commit dan push repository ke github.
 
 ![code praktikum 6](https://github.com/Reardhyan/praktikum-6/assets/148032571/1fd2ffbf-62f5-491b-b538-e03c1a5ab19b)
 ![Screenshot (141)](https://github.com/Reardhyan/praktikum-6/assets/148032571/61ed7580-c7b9-4ad4-86e6-102f70d89045)
