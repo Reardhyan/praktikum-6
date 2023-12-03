@@ -133,5 +133,5 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 ![code praktikum 6](https://github.com/Reardhyan/praktikum-6/assets/148032571/1fd2ffbf-62f5-491b-b538-e03c1a5ab19b)
 ![Screenshot (141)](https://github.com/Reardhyan/praktikum-6/assets/148032571/61ed7580-c7b9-4ad4-86e6-102f70d89045)
-
+![Blank board - Page 1](https://github.com/Reardhyan/praktikum-6/assets/148032571/2b5dfead-223a-4e98-9f36-12b2e8dbf76b)
 
